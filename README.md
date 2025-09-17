@@ -1,37 +1,30 @@
 # Hi, I’m Tony
 
-**Print shop pro. Builder of odd things. Always tinkering.**  
-Most of what you’ll find here are side projects and experiments I built because I wanted to see if I could.
+Print shop pro. Builder of odd things. Always tinkering.
 
 ---
 
-## Featured Projects
+## Featured
 
-- [**Phototron**](https://github.com/omgsideburns/phototron)  
-  A Raspberry Pi–powered photo booth system with custom hardware, software, and style.
-
-- [**Dashatron**](https://github.com/omgsideburns/dashatron)  
-  A modular dashboard that pulls together news, photos, calendars, and more.
+[![Phototron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=phototron&theme=tokyonight&cache_seconds=172800)](https://github.com/omgsideburns/phototron)
+[![Dashatron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=dashatron&theme=tokyonight&cache_seconds=172800)](https://github.com/omgsideburns/dashatron)
 
 ---
 
-## Activity & Stats
+## Status Board
 
+| Activity | Streak |
+|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=172800) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=omgsideburns&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&cache_seconds=172800) |
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight&cache_seconds=86400)
+| Languages | Trophies |
+|---|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight&cache_seconds=172800) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight&no-frame=true&row=1&column=6&cache=172800) |
 
 ---
 
-## Find me online
+## Elsewhere
 
 - Website: [xtonyx.org](https://xtonyx.org)
-
----
 
 > _Art. Tech. Chaos. That’s the mix._
