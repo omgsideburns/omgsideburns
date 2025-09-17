@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Tony
 
-<!--
-**omgsideburns/omgsideburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Print shop pro. Builder of odd things. Always tinkering.**  
+Most of what you’ll find here are side projects and experiments I built because I wanted to see if I could.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- [**Phototron**](https://github.com/omgsideburns/phototron)  
+  A Raspberry Pi–powered photo booth system with custom hardware, software, and style.
+
+- [**Dashatron**](https://github.com/omgsideburns/dashatron)  
+  A modular dashboard that pulls together news, photos, calendars, and more.
+
+---
+
+## Find me online
+
+- Website: [xtonyx.org](https://xtonyx.org)
+
+---
+
+>_Art. Tech. Chaos. That’s the mix._
