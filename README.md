@@ -11,16 +11,13 @@ Print shop pro. Builder of odd things. Always tinkering.
 
 ---
 
-## Status Board
+## Activity & Stats
 
-| Activity | Streak |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&hide_title=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=omgsideburns&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j) |
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=tokyonight&hide_title=true)
 
-| Languages | Trophies |
-|---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight)
 
+---
 ---
 
 ## Elsewhere
