@@ -15,10 +15,18 @@ Most of what you’ll find here are side projects and experiments I built becaus
 
 ---
 
+## Activity & Stats
+
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight)
+
+---
+
 ## Find me online
 
 - Website: [xtonyx.org](https://xtonyx.org)
 
 ---
 
->_Art. Tech. Chaos. That’s the mix._
+> _Art. Tech. Chaos. That’s the mix._
