@@ -17,9 +17,9 @@ Most of what you’ll find here are side projects and experiments I built becaus
 
 ## Activity & Stats
 
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=tokyonight&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=omgsideburns&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
