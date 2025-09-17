@@ -19,8 +19,7 @@ Print shop pro. Builder of odd things. Always tinkering.
 
 | Languages | Trophies |
 |---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight
-) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight) |
 
 ---
 
