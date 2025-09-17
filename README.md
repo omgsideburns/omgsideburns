@@ -21,4 +21,4 @@ Most of what you’ll find here are side projects and experiments I built becaus
 
 ---
 
-_Art. Tech. Chaos. That’s the mix._
+>_Art. Tech. Chaos. That’s the mix._
