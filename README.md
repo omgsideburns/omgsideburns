@@ -6,8 +6,8 @@ Print shop pro. Builder of odd things. Always tinkering.
 
 ## Featured
 
-[![Phototron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=phototron&theme=tokyonight&cache_seconds=172800)](https://github.com/omgsideburns/phototron)
-[![Dashatron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=dashatron&theme=tokyonight&cache_seconds=172800)](https://github.com/omgsideburns/dashatron)
+[![Phototron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=phototron&theme=tokyonight&cache_seconds=86400)](https://github.com/omgsideburns/phototron)
+[![Dashatron](https://github-readme-stats.vercel.app/api/pin/?username=omgsideburns&repo=dashatron&theme=tokyonight&cache_seconds=86400)](https://github.com/omgsideburns/dashatron)
 
 ---
 
@@ -19,7 +19,7 @@ Print shop pro. Builder of odd things. Always tinkering.
 
 | Languages | Trophies |
 |---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight&cache_seconds=172800) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight&no-frame=true&row=1&column=6&cache=172800) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgsideburns&layout=compact&theme=tokyonight&cache_seconds=518400) | ![Trophies](https://github-profile-trophy.vercel.app/?username=omgsideburns&theme=tokyonight&no-frame=true&row=1&column=6&cache=172800) |
 
 ---
 
